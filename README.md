@@ -8,3 +8,7 @@ Simple Front-End for [Anime Girls Holding Programming Books](https://github.com/
 - HTML
 - CSS
 - JS
+
+
+## TODO
+- Create backend for GitHub API
